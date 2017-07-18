@@ -2,12 +2,9 @@ body {
  background-color: green;
 }
 h2 {
- text-align center;
-
-h2 { 
-      color: #2EFE9A
+ text-align: center; color: #00FF80;
 }
-h1 { 
+ h1 { 
       color:#FFFF00
 }
 img {
