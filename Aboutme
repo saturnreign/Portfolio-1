@@ -36,9 +36,7 @@ text-align: center;
 
 </style>
 
-<img src="Neo.png" alt="Frog Fall" width="250" height= "150">
-
-<img src="Scroll.png" alt="80's game" width="250" height="150">
+<img src="Neo.png" alt="80's game" style="width:250px;height:250px;">
 
 </body>
 </html>
